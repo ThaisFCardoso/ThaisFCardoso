@@ -54,6 +54,3 @@
 <p align="center">
   ✨ Obrigada por visitar meu repositório mágico! ✨
 </p>
-
-<!-- Snake animation opcional -->
-<img src="https://raw.githubusercontent.com/ThaisFCardoso/ThaisFCardoso/output/snake.svg" alt="snake animation"/>
