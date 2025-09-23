@@ -1,56 +1,19 @@
-<h1 align="center">
-  🎨✨ Bem-vindos ao meu cantinho do GitHub ✨🎨
-</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF77CC&height=120&section=header" />
 
-<p align="center">
-  <img src="https://i.ibb.co/VHJr3Z0/rainbow-line.gif" width="90%"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7CFF8A&size=35&center=true&vCenter=true&width=1000&lines=Oi,+eu+sou+a+Thais+💖;20+anos+criando+com+muito+amor+💚;Desenvolvedora+e+Designer;Bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 
-### 🌸 Sobre mim
-> Oi, eu sou **Thais Farias Cardoso** 💻  
-> Estudante de **Análise e Desenvolvimento de Sistemas (5º semestre)**  
-> Apaixonada por **programação, design kawaii e estética retro pastel** 💖
-
----
-
-### 🖥️ Minhas estatísticas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=omni&bg_color=ffb6c1&title_color=ffffff&text_color=5a189a&icon_color=ff69b4&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SEUUSUARIO&layout=compact&theme=omni&bg_color=ffb6c1&title_color=ffffff&text_color=5a189a&icon_color=ff69b4&hide_border=true" height="150"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ThaisFCardoso&show_icons=true&bg_color=0B0B0B&title_color=FF77CC&text_color=A8FFB0&icon_color=7CFF8A&hide_border=true&count_private=true" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisFCardoso&layout=compact&bg_color=0B0B0B&title_color=7CFF8A&text_color=FFB6E6&hide_border=true" />
 </div>
 
----
+### 💕💚 Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-FFB6E6?style=for-the-badge&logo=javascript&logoColor=0B0B0B)
+![Python](https://img.shields.io/badge/Python-7CFF8A?style=for-the-badge&logo=python&logoColor=0B0B0B)
+![HTML](https://img.shields.io/badge/HTML-FF77CC?style=for-the-badge&logo=html5&logoColor=0B0B0B)
+![CSS](https://img.shields.io/badge/CSS-A8FFB0?style=for-the-badge&logo=css3&logoColor=0B0B0B)
 
-### 🎀 Tecnologias favoritas
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-</div>
+### 🌸 Mood Atual
+💖💚 Criando sites como Hobby✨
 
----
-
-### 💌 Contatos fofinhos
-<div align="center">
-  <a href="https://www.instagram.com/SEUINSTAGRAM">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:SEUEMAIL">
-    <img src="https://img.shields.io/badge/Gmail-ffb6c1?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/SEULINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-ffa6c9?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
-
----
-
-<p align="center">
-  <img src="https://i.ibb.co/VHJr3Z0/rainbow-line.gif" width="90%"/>
-</p>
-
-<p align="center">
-  ✨ Obrigada por visitar meu repositório mágico! ✨
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7CFF8A&height=120&section=footer" />
