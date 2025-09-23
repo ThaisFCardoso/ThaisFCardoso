@@ -16,4 +16,8 @@
 ### 🌸 Mood Atual
 💖💚 Criando sites como Hobby✨
 
+<div>
+  <img src="https://i.pinimg.com/originals/51/4f/3f/514f3fccb71047d780be491c435a79e1.gif" width="2000px" />
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7CFF8A&height=120&section=footer" />
