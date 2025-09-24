@@ -8,16 +8,19 @@
 </div>
 
 ### 💕💚 Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-FFB6E6?style=for-the-badge&logo=javascript&logoColor=0B0B0B)
-![Python](https://img.shields.io/badge/Python-7CFF8A?style=for-the-badge&logo=python&logoColor=0B0B0B)
-![HTML](https://img.shields.io/badge/HTML-FF77CC?style=for-the-badge&logo=html5&logoColor=0B0B0B)
-![CSS](https://img.shields.io/badge/CSS-A8FFB0?style=for-the-badge&logo=css3&logoColor=0B0B0B)
+<div align="center" style="display:flex; justify-content:space-between; align-items:center;">
+
+  <div>
+    <img src="https://img.shields.io/badge/JavaScript-FFB6E6?style=for-the-badge&logo=javascript&logoColor=0B0B0B" />
+    <img src="https://img.shields.io/badge/Python-7CFF8A?style=for-the-badge&logo=python&logoColor=0B0B0B" />
+    <img src="https://img.shields.io/badge/HTML-FF77CC?style=for-the-badge&logo=html5&logoColor=0B0B0B" />
+    <img src="https://img.shields.io/badge/CSS-A8FFB0?style=for-the-badge&logo=css3&logoColor=0B0B0B" />
+  </div>
+
+  <img src="https://giffiles.alphacoders.com/424/4244.gif" width="200px" />
+</div>
 
 ### 🌸 Mood Atual
 💖💚 Criando sites como Hobby✨
-
-<div>
-  <img src="https://i.pinimg.com/originals/51/4f/3f/514f3fccb71047d780be491c435a79e1.gif" width="2000px" />
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7CFF8A&height=120&section=footer" />
